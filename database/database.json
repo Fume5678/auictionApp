@@ -1,0 +1,27 @@
+{
+    "auctioner": {
+        "items": [
+            {
+                "name": "Diamond",
+                "startCost": 2000.0
+            }
+        ]
+    },
+    "traders": [
+        {
+            "bag": [],
+            "cache": 2000.0,
+            "name": "Oleg"
+        },
+        {
+            "bag": [
+                {
+                    "boughtCost": 3000.0,
+                    "name": "Bucket"
+                }
+            ],
+            "cache": 5000.0,
+            "name": "Igor"
+        }
+    ]
+}
